@@ -52,6 +52,7 @@ now this is a very finnicky tool but it's currently the most stable and least de
 with that said a lot of site have their cross origin security policy set to disallow embedding inside an iframe. 
 
 the best way to test before adding a bookmark is enter it in the URL bar before trying it as a bookmark. if it works, great. if it looks like this:
+
 <img width="274" height="174" alt="image" src="https://github.com/user-attachments/assets/a5626716-d000-46bd-92b6-516d23393c27" /> <img width="563" height="200" alt="image" src="https://github.com/user-attachments/assets/1a773d96-f2b0-454e-b0b8-f94926c0f6b6" />
 
 then cross origin embedding doesn't work and so it won't work.
