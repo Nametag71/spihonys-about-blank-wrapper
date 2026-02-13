@@ -3,6 +3,8 @@ this is an about:blank wrapper. if you don't know what that is it basically open
 
 in the latest release version we made it have some hardcoded "bookmarks" that are sites you can open, and this repo's designed to help you make your own personalized version with your own bookmarks.
 
+(btw the language thing lied it's also CSS and JS inline)
+
 anyway here's the instructions
 
 # template
